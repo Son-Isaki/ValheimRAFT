@@ -1,0 +1,2 @@
+D:\Projets\Valheim\ValheimRAFT\obj\Debug\ValheimRAFT.csproj.AssemblyReference.cache
+D:\Projets\Valheim\ValheimRAFT\obj\Debug\ValheimRAFT.csproj.CoreCompileInputs.cache
